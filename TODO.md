@@ -1,0 +1,5 @@
+- [x] Substituir o src do avatar do canal por "avatar.jpeg"
+- [x] Adicionar img no primeiro thumbnail com src="tomb1.jpeg"
+- [x] Adicionar img no segundo thumbnail com src="tomb2.jpeg"
+- [x] Adicionar img no terceiro thumbnail com src="tomb3.jpeg"
+- [x] Adicionar img no quarto thumbnail com src="tomb4.jpeg"
